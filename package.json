@@ -1,0 +1,21 @@
+{
+  "name": "spotify_dating_socket_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "dependencies": {
+    "eslint-config-rallycoding": "^3.2.0",
+    "express": "^4.16.3",
+    "react": "^16.2.0",
+    "react-native": "^0.54.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
